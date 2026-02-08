@@ -1,0 +1,1 @@
+A TCP-based Port Scanner built using Python that scans a specified range of ports on a target host to identify open and closed TCP ports. The project uses socket programming and multithreading to improve scanning efficiency, includes proper timeout and exception handling, and logs scan results for basic network reconnaissance and analysis.
